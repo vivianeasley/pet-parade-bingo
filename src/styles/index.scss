@@ -1,0 +1,62 @@
+@import '_reset.scss';
+
+.page-wrapper {
+  max-width: 670px;
+  margin: 0 auto;
+
+}
+
+.bingo-wrapper {
+  position: relative;
+
+}
+
+.bingo-image {
+  width: 100%;
+  height: auto;
+}
+
+.grid-wrapper {
+  position: absolute;
+  top: 33%;
+  bottom: 15%;
+  left: 5%;
+  right: 5%;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.selected {
+  background-color: blue;
+  opacity: 0.5;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-areas: ". . . . ." ". . . . ." ". . . . ." ". . . . ." ". . . . .";
+}
+
+.button-wrapper {
+  margin-top: 20px;
+  overflow: hidden;
+}
+
+.download-button {
+  float: right;
+}
+
+.button-reset {
+  font: inherit;
+  cursor: pointer;
+  padding: 10px;
+  background-color: #ffffff;
+  border: 1px solid #8c8b8b;
+  font-family: 'Schoolbell', cursive;
+  color: #4a4a4a;
+}

@@ -1,0 +1,40 @@
+<div class="page-wrapper">
+
+    <div class="bingo-wrapper">
+      <img src="" class="bingo-image" alt="">
+        <div class="grid-wrapper grid-container">
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+          <div class="column"></div>
+        </div>
+
+    </div>
+      <div class="button-wrapper">
+        <button class="download-button button-reset">Download Printable PDF</button>
+      </div>
+    </div>
+
+    <img class="bingo-grid" src="./images/grid.jpg" style="display:none">
+    <img class="bingo-banner" src="./images/banner.jpg" style="display:none">

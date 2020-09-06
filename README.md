@@ -10,7 +10,9 @@ Features:
 
 ## To Run locally
 npm install
-npm run start
+
+npm run dev
+
 Point your browser towards localhost:8000
 
 ## To Change to a different type of bingo

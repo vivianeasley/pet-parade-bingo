@@ -1,7 +1,7 @@
 # A simple pet parade bingo card generator
 Art is by the talented [Tessa Brunton](https://tessabrunton.com/). Coded in an afternoon, don't judge :stuck_out_tongue_winking_eye:
 
-## [DEMO](https://robertpage.github.io/pet-parade-bingo/)
+## [DEMO](https://vivianeasley.github.io/pet-parade-bingo/)
 
 Features:
 - Responsive-ish
